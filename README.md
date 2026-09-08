@@ -666,29 +666,6 @@ Planned extensions to this lab:
 
 ------------------------------------------------------------------------
 
-# 📸 Screenshots
-
-Recommended screenshots to add to this repository:
-
-``` text
-screenshots/
-├── vmware-network.png
-├── kali-ip.png
-├── ubuntu-ip.png
-├── nmap-basic.png
-├── nmap-service-detection.png
-├── nmap-full-scan.png
-├── wireshark-ssh.png
-├── ssh-debug.png
-├── ss-listening-ports.png
-└── ssh-authentication-logs.png
-```
-
-Add screenshots only after removing any personal information you do not
-want publicly visible.
-
-------------------------------------------------------------------------
-
 # ⚠️ Ethical Scope
 
 All reconnaissance and testing documented here was performed against

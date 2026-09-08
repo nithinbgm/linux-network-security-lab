@@ -665,6 +665,49 @@ Planned extensions to this lab:
 -   Security automation with Python
 
 ------------------------------------------------------------------------
+# 📸 Lab Evidence
+
+## 1. Kali Linux IP Configuration
+
+![Kali IP Configuration](Screenshots/01-kali-ip.png)
+
+## 2. Ubuntu Server IP Configuration
+
+![Ubuntu IP Configuration](Screenshots/02-ubuntu-ip.png)
+
+## 3. Nmap Basic Scan
+
+![Nmap Basic Scan](Screenshots/03-nmap-basic-scan.png)
+
+## 4. Nmap Service & Version Detection
+
+![Nmap Service Detection](Screenshots/04-nmap-service-detection.png)
+
+## 5. Full TCP Port Scan
+
+![Nmap Full TCP Scan](Screenshots/05-nmap-full-tcp-scan.png)
+
+## 6. Wireshark SSH Traffic Analysis
+
+![Wireshark SSH Analysis](Screenshots/06-wireshark-ssh.png)
+
+## 7. SSH Cryptographic Configuration
+
+![SSH Cryptographic Configuration](Screenshots/07-ssh-crypto-config.png)
+
+## 8. Linux Listening Sockets
+
+![Listening Sockets](Screenshots/08-listening-sockets.png)
+
+## 9. SSH Process & Service Investigation
+
+![SSH Process and Service](Screenshots/09-ssh-process-service.png)
+
+## 10. SSH Authentication Logs
+
+![SSH Authentication Logs](Screenshots/10-ssh-auth-logs.png)
+
+------------------------------------------------------------------------
 
 # ⚠️ Ethical Scope
 

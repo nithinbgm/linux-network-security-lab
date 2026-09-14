@@ -719,38 +719,6 @@ Do not scan systems or networks without explicit authorization.
 
 ------------------------------------------------------------------------
 
-# 🚀 Career Relevance
-
-This project is part of a broader roadmap toward **Security Engineering
-/ Cloud Security / Product Security** roles.
-
-The purpose is to demonstrate practical understanding rather than simply
-listing tools on a resume.
-
-Future projects will extend this foundation into:
-
-``` text
-Linux & Networking
-       ↓
-Network Security
-       ↓
-Cloud Security
-       ↓
-IAM / Zero Trust
-       ↓
-SIEM & Detection
-       ↓
-Python Security Automation
-       ↓
-Web / API Security
-       ↓
-DevSecOps
-       ↓
-Security Engineering
-```
-
-------------------------------------------------------------------------
-
 ## Author
 
 **Nithin Goud Mamidi**
